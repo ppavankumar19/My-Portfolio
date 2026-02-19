@@ -18,9 +18,9 @@ portfolio/
 
 ## ✨ Features
 
-- Dark purple / violet theme with glassmorphism cards
+- Dark purple/violet theme with glassmorphism cards
 - Animated spinning photo ring with orbit dots
-- Typewriter role animation in hero section
+- Typewriter role animation in the hero section
 - Dot-based skill proficiency indicators
 - Project cards with GitHub & deployment links
 - "Currently Working On" section for WIP projects
@@ -63,4 +63,4 @@ You can deploy this on any static hosting:
 
 ---
 
-© 2025 Pavan Kumar Ponnuri
+© 2026 Pavan Kumar Ponnuri
